@@ -1,7 +1,7 @@
 {
   "name": "sba-accounts",
   "version": "1.0.0",
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "index.js",
   "dependencies": {
     "expo": "~50.0.0",
     "expo-image-picker": "~16.0.4",
