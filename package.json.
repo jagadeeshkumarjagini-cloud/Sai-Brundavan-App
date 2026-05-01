@@ -4,13 +4,13 @@
   "main": "index.js",
   "dependencies": {
     "expo": "~50.0.0",
-    "expo-image-picker": "~16.0.4",
-    "expo-print": "~15.0.8",
-    "expo-sharing": "~13.0.7",
-    "lucide-react-native": "0.344.0",
-    "react-native-svg": "15.12.1",
-    "react-native-chart-kit": "6.12.0",
+    "expo-image-picker": "~14.7.1",
+    "expo-print": "~12.7.1",
+    "expo-sharing": "~11.5.0",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "lucide-react-native": "0.344.0",
+    "react-native-svg": "14.1.0",
+    "react-native-chart-kit": "6.12.0"
   }
 }
