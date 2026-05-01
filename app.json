@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SBA Accounts",
+    "slug": "sba-accounts",
+    "version": "1.0.0",
+    "icon": "./icon.png",
+    "android": {
+      "package": "com.sba.tracker",
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#0A192F"
+      }
+    }
+  }
+}
